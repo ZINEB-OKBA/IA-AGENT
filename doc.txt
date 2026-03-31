@@ -1,0 +1,12 @@
+Code Python pour trier et additionner deux listes:
+list1 = [3,1,2]
+list2 = [5,4,9]
+# Trier les listes
+sorted_list1 = sorted(list1)
+sorted_list2 = sorted(list2)
+# Additionner les listes triées
+result = [a + b for a, b in zip(sorted_list1, sorted_list2)]
+print(sorted_list1, sorted_list2, result)
+
+Résultats obtenus:
+[1, 2, 3] [4, 5, 9] [5, 7, 12]
