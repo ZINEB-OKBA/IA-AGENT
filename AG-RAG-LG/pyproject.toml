@@ -1,0 +1,18 @@
+[project]
+name = "ag-rag-lg"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.5.9",
+    "ipykernel>=7.2.0",
+    "langchain>=1.2.18",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.2.1",
+    "langchain-text-splitters>=1.1.2",
+    "langgraph>=1.1.10",
+    "pypdf>=6.11.0",
+    "python-dotenv>=1.2.2",
+    "tiktoken>=0.12.0",
+]

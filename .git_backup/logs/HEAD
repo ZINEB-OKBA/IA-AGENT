@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 6a5e42b46b42bb487c0ef2742fa9f71afc0a0a1a zinebokba <zineb.okba@bi-newvision.com> 1774960602 +0100	commit (initial): Ajout du TP3 AGENTIC
+6a5e42b46b42bb487c0ef2742fa9f71afc0a0a1a 0000000000000000000000000000000000000000 zinebokba <zineb.okba@bi-newvision.com> 1774960654 +0100	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 6a5e42b46b42bb487c0ef2742fa9f71afc0a0a1a zinebokba <zineb.okba@bi-newvision.com> 1774960654 +0100	Branch: renamed refs/heads/master to refs/heads/main
+6a5e42b46b42bb487c0ef2742fa9f71afc0a0a1a d4d95a16f00c9c4ff6461496a6f1bfd1fb9ec3be zinebokba <zineb.okba@bi-newvision.com> 1774960772 +0100	pull origin main --rebase (start): checkout d4d95a16f00c9c4ff6461496a6f1bfd1fb9ec3be
+d4d95a16f00c9c4ff6461496a6f1bfd1fb9ec3be 4634b5968ff493122e1f133c770c02f14a729ff7 zinebokba <zineb.okba@bi-newvision.com> 1774961848 +0100	commit: Ajout du projet dans le dossier tp4
+4634b5968ff493122e1f133c770c02f14a729ff7 6a5e42b46b42bb487c0ef2742fa9f71afc0a0a1a zinebokba <zineb.okba@bi-newvision.com> 1774961997 +0100	rebase (abort): returning to refs/heads/main
+6a5e42b46b42bb487c0ef2742fa9f71afc0a0a1a 554c657b8f78907bcc6fd4c185ec91d1e2141d24 zinebokba <zineb.okba@bi-newvision.com> 1774963141 +0100	commit (merge): all_tps
+554c657b8f78907bcc6fd4c185ec91d1e2141d24 f1556aa55b9afe15fe5f8527790bef0cab2dfdde zinebokba <zineb.okba@bi-newvision.com> 1774963410 +0100	commit: all_tps_folder
+f1556aa55b9afe15fe5f8527790bef0cab2dfdde 7d3c3d89db2f8df806db325c9bee4bd76e7956b4 zinebokba <zineb.okba@bi-newvision.com> 1775465445 +0100	commit: agentrag
+7d3c3d89db2f8df806db325c9bee4bd76e7956b4 d7cf4f1500e761652149a3450d9543aec8f439e7 zinebokba <zineb.okba@bi-newvision.com> 1775466046 +0100	commit: nochange
+d7cf4f1500e761652149a3450d9543aec8f439e7 6d6dade28f1ed44f014a37bc5f8ea637fd929b94 zinebokba <zineb.okba@bi-newvision.com> 1775466368 +0100	commit: agenticrag
+6d6dade28f1ed44f014a37bc5f8ea637fd929b94 6d6dade28f1ed44f014a37bc5f8ea637fd929b94 zinebokba <zineb.okba@bi-newvision.com> 1778495814 +0100	reset: moving to HEAD
